@@ -1,0 +1,1 @@
+Find the probability that among the three randomly chosen decimal digits will meet exactly 2 identical digits. Provide your calculations.
