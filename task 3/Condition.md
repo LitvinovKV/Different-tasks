@@ -1,0 +1,1 @@
+Write C++ code to generate random graph and count the number of connected components of the graph.
